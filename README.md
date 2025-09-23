@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:  http://127.0.0.1:5500/index.html
-- Live Site URL: 
+- Live Site URL: https://ibidiuntold.github.io/social-media-challenge/
 
 ## My process
 
