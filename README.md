@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/images/Screenshot_2025-09-24_173310.png)
+![assets/images/Screenshot_2025-09-24_173310.png](https://github.com/ibidiuntold/social-media-challenge/tree/3165847f1e4ba78212a269434daf309be635d652/assets/images)
 
 
 ### Links
